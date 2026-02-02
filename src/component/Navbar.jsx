@@ -74,10 +74,7 @@ const [mobileSub, setMobileSub] = useState(null);
     medical: {
       left: ["MBBS", "PG", "Nursing","Neet Predictor"],
       right: {
-        "MBBS": [
-          "Russia ,USA, Ukraine,Uk",
-          
-        ],
+        "MBBS": [ "Russia" , "USA", "Ukraine","UK",],
 
         "PG": ["Gerorgia" ],
               
