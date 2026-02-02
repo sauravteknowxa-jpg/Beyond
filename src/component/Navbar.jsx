@@ -72,20 +72,17 @@ const [mobileSub, setMobileSub] = useState(null);
     },
 
     medical: {
-      left: ["MBBS", "PG", "BAMS", "Dental","BHMS","Nursing","Pharma","Allied Health","Neet Predictor"],
+      left: ["MBBS", "PG", "Nursing","Neet Predictor"],
       right: {
         "MBBS": [
-          "Russia",
+          "Russia ,USA, Ukraine,Uk",
           
         ],
 
         "PG": ["Gerorgia" ],
-        "BAMS": ["Uzbekistan" ],
-        "Dental": [ "Krygstan"],
-        "BHMS": [ "Kazakhstan"],      
+              
         "Nursing": [ "Mauritus"],
-        "Pharma": [ "Malaysia"],
-        "Allied Health": ["US", "UK","EU","AU", "NZ"],
+        
         "Neet Predictor": ["USMLE", "PTE", "FMEG" ],
 
 
